@@ -5,7 +5,7 @@ Version:	0.9.91
 Release:	1
 License:	GPL v2+
 Group:		Development/Languages/Scheme
-Source0:	http://ftp.gnu.org/pub/gnu/guile-gnome/guile-gnome-gstreamer/%{name}-%{version}.tar.gz
+Source0:	http://ftp.gnu.org/gnu/guile-gnome/guile-gnome-gstreamer/%{name}-%{version}.tar.gz
 # Source0-md5:	5c218bf7c4af91d81d4a3ca553b948f2
 URL:		http://www.gnu.org/software/guile-gnome/
 BuildRequires:	g-wrap-devel >= 1.9.8
